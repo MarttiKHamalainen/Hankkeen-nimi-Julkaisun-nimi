@@ -1,27 +1,22 @@
-# Hankeen nimi
+# Julkaisun nimi
 Tähän hankeen rahoittajien logot
+# Teknologiapilotti
+Linkki pilotin julkaisuun
+# Hanketiedot
+Linkki hankkeen julkaisuun
+# Kuvaus
+Tähän kuvaus julkaisusta. Kuvat selventävät asiaa. Oppimisalustaan liittyvät julkaisut on tarkoitettu henkilöille, joilla ei välttämättä ole aikaisempaa kokemusta julkaisussa kerrotusta asiasta.
+# Tavoitteet (hankejulkaisu)
+Kuvaus tavoitteesta, jos julkaisussa on tarvetta määrittää tavoite
+# Toimenpiteet (hankejulkaisu)
+Julkaisun tavoitteeseen liittyvät toimenpiteet
+# Asennus (koodin julkaisussa)
+# Vaatimukset (koodin julkaisussa)
+# Käyttö/käynnistys (koodin julkaisussa)
+# Tulokset (hankejulkaisu)
+# Tekijä
 
-# Markdown ohjeita
-[Extended syntax] https://www.markdownguide.org/extended-syntax/
 
-# Ohjelmakoodin lisääminen
-
-- Koodin upotuslaatikko
-~~~python
-# Esimerkkikoodi Pythonilla
-
-def gcd_iter(u, v):
-    while v:
-        u, v = v, u % v
-    return abs(u)
-~~~~
-
-~~~javascript
-// Esimerkkikoodi JavaScriptillä
-function gcd_rec(a, b) {
-  return b ? gcd_rec(b, a % b) : Math.abs(a);
-}
-~~~
 
 
 
