@@ -1,5 +1,20 @@
 # Julkaisun nimi
 Tähän hankeen rahoittajien logot
+# Sisällysluettelo
+- [Julkaisun nimi](#julkaisun-nimi)
+- [Sisällysluettelo](#sisällysluettelo)
+- [Teknologiapilotti](#teknologiapilotti)
+- [Hanketiedot](#hanketiedot)
+- [Kuvaus](#kuvaus)
+- [Tavoitteet (hankejulkaisu)](#tavoitteet-hankejulkaisu)
+- [Toimenpiteet (hankejulkaisu)](#toimenpiteet-hankejulkaisu)
+- [Asennus (koodin julkaisussa)](#asennus-koodin-julkaisussa)
+- [Vaatimukset (koodin julkaisussa)](#vaatimukset-koodin-julkaisussa)
+- [Käyttö/käynnistys (koodin julkaisussa)](#käyttökäynnistys-koodin-julkaisussa)
+- [Tulokset (hankejulkaisu)](#tulokset-hankejulkaisu)
+- [Lisenssi](#lisenssi)
+- [Tekijät](#tekijät)
+
 # Teknologiapilotti
 Linkki pilotin julkaisuun, jos sellainen löytyy.
 # Hanketiedot
