@@ -1,7 +1,12 @@
 # Julkaisun nimi
 Tähän hankeen rahoittajien logot
+# Julkaisun historiatiedot
+Merkittävät muutokset julkaisuun
+|pvm|Nimi|Tekijä|
+|---|---|---|
 # Sisällysluettelo
 - [Julkaisun nimi](#julkaisun-nimi)
+- [Julkaisun historiatiedot](#julkaisun-historiatiedot)
 - [Sisällysluettelo](#sisällysluettelo)
 - [Teknologiapilotti](#teknologiapilotti)
 - [Hanketiedot](#hanketiedot)
